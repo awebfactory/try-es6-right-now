@@ -28,4 +28,4 @@ run some es6 files edited from Luke Hoban's [Overview of ECMAScript 6 features r
 
 Find out about [one-on-one JavaScript mentoring at AWebFactory](http://awebfactory.com/mentoring-awebfactory)
 
-[Tell us](http://awebfactory.com/contact) what happened when you ran this and get a 20% discount (discount token: "run it now!")!
+[Tell us](http://awebfactory.com/contact) what happened when you ran this and receive a 20% discount!
